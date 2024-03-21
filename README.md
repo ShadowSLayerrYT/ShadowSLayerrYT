@@ -22,7 +22,7 @@ Hey there! I'm [ShadowSLayerr], a 19-year-old enthusiast of both gaming and fron
 
 🌐 If you share my passion for gaming, coding, or just want to geek out over the latest releases, feel free to reach out! I'm always open to collaborations, discussions, and making new connections.
 
-📫 You can find me on [My Website](https://shadowslayerryt.wixsite.com/shadowslayerr), [Email](@shadowslayerryt), or [Discord](https://discord.com/shadowslayerryt).
+📫 You can find me on [My Website](https://shadowslayerryt.wixsite.com/shadowslayerr), [Email](shadowslayerryt@gmail.com), or [Discord](discordapp.com/users/1012026647978975245).
 
 🎮 Let's play together, code together, and embark on epic quests in the vast realms of technology and imagination! 
 

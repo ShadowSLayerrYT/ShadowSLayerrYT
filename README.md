@@ -1,6 +1,6 @@
 # 👾 Welcome to my World! 👾
 
-Hey there! I'm [ShadowSLayerr], a 19-year-old enthusiast of both gaming and front-end development, constantly exploring the intersections between pixels and code. 🎮💻
+Hey there! I'm Koushik Sagar , a 19-year-old enthusiast of both gaming and front-end development, constantly exploring the intersections between pixels and code. 🎮💻
 
 ## About Me
 

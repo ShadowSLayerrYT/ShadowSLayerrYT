@@ -6,7 +6,7 @@ Hey there! I'm Koushik Sagar , a 19-year-old enthusiast of both gaming and web d
 
 🎮 **Gaming Aficionado:** Whether it's slaying dragons, saving the world, or just enjoying a casual match, you'll often find me immersed in the virtual realms of gaming. From classic RPGs to competitive shooters, I'm always up for a challenge.
 
-💻 **Web Developer:** When I'm not busy leveling up in my favorite games, I'm crafting engaging user experiences on the web. I specialize in web development, bringing designs to life with HTML, CSS, and JavaScript, and constantly striving to make the digital world more interactive and intuitive.
+💻 **Web Developer:** When I'm not busy leveling up in my favorite games, I'm crafting engaging user experiences on the web. I specialize in web development, bringing designs to life with HTML, CSS, React.Js , Next.Js and JavaScript, and constantly striving to make the digital world more interactive and intuitive.
 
 🌟 **Passion-Driven:** My passion for gaming and coding fuels my creativity and perseverance. I believe in pushing boundaries, embracing new technologies, and turning ideas into reality.
 

@@ -12,7 +12,7 @@ Hey there! I'm Koushik Sagar , a 19-year-old enthusiast of both gaming and web d
 
 ## What I'm Up To
 
-🚀 Currently, I'm leveling up my skills in web development, diving deep into frameworks like React and Vue.js, and exploring the latest trends in UI/UX design.
+🚀 Currently, I'm leveling up my skills in web development, diving deep into frameworks like React and Next.js, and exploring the latest trends in UI/UX design.
 
 🎨 On the gaming front, I'm always on the lookout for captivating narratives, innovative gameplay mechanics, and hidden gems across various platforms.
 

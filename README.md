@@ -22,7 +22,7 @@ Hey there! I'm Koushik Sagar , a 19-year-old enthusiast of both gaming and web d
 
 🌐 If you share my passion for gaming, coding, or just want to geek out over the latest releases, feel free to reach out! I'm always open to collaborations, discussions, and making new connections.
 
-📫 You can find me on [My Website](https://koushiksagar.wixsite.com/koushiksagar)
+📫 You can find me on [My Website](https://koushiksagar.framer.website/)
                  or on [Discord](https://discordapp.com/users/1012026647978975245).
                     or mail me : ``shadowslayerryt@gmail.com``
 
